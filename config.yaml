@@ -1,4 +1,4 @@
-baseURL: https://www.example.org/
+baseURL: https://zahrashamlou.github.io/
 theme: hugo-apero
 languageCode: en
 title: Zahra Shamlou
@@ -154,4 +154,4 @@ privacy:
   youtube:
     disable: no
     privacyEnhanced: yes
-publishDir: "public"
+publishDir: "./public"
