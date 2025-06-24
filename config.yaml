@@ -1,5 +1,5 @@
 baseURL: https://zahrashamlou.github.io/
-publishDir: "./public"
+publishDir: docs
 theme: hugo-apero
 languageCode: en
 title: Zahra Shamlou
